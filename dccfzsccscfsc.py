@@ -1,4 +1,4 @@
- M = [int(x) for x in open('17.txt')]
+ M = [int(x) for x in open('17_13088.txt')]
 A = [x for x in M if abs(x) % 100 == 17]
 count = 0
 maxi = -9999999999
